@@ -1,0 +1,15 @@
+C:\Users\natal\VS Projects\pz2-lab3\bin\Debug\net7.0\pz2-lab3.exe
+C:\Users\natal\VS Projects\pz2-lab3\bin\Debug\net7.0\pz2-lab3.deps.json
+C:\Users\natal\VS Projects\pz2-lab3\bin\Debug\net7.0\pz2-lab3.runtimeconfig.json
+C:\Users\natal\VS Projects\pz2-lab3\bin\Debug\net7.0\pz2-lab3.dll
+C:\Users\natal\VS Projects\pz2-lab3\bin\Debug\net7.0\pz2-lab3.pdb
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\pz2-lab3.csproj.AssemblyReference.cache
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\pz2-lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\pz2-lab3.AssemblyInfoInputs.cache
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\pz2-lab3.AssemblyInfo.cs
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\pz2-lab3.csproj.CoreCompileInputs.cache
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\pz2-lab3.dll
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\refint\pz2-lab3.dll
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\pz2-lab3.pdb
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\pz2-lab3.genruntimeconfig.cache
+C:\Users\natal\VS Projects\pz2-lab3\obj\Debug\net7.0\ref\pz2-lab3.dll
